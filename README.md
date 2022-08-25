@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanGarg0303
 - 👀 I’m interested in web and android development.
-- 🌱 I’m currently learning web dev.
+- 🌱 I’m web developer, I can create cool ui designs for your website. Also I'm currently working on my backend dev skills hard! 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
