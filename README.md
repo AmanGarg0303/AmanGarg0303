@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AmanGarg0303
 - 👀 I’m interested in web development and machine learning.
-- 🌱 As of now, I’m web developer (MERN Stack), I can create cool websites for you. 
+- 🌱 As of now, I’m web developer (MERN Stack), I can create cool websites for you.
+- Javascript, ReactJs, NodeJs, ExpressJs, MongoDb, TypeScript, NextJs
 - 📫 How to reach me ... Portfolio - [Click here](https://amangarg-portfolio-blog.vercel.app/)
 - [![@amangarg0303's Holopin board](https://holopin.me/amangarg0303)](https://holopin.io/@amangarg0303)
 
