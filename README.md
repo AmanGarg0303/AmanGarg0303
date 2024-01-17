@@ -10,6 +10,9 @@ const aman = {
     code: ["css", "Javascript", "ReactJs", "NextJs", "NodeJs"],
     askMeAbout: ["web dev", "tech", "machine learning"],
     technologies: {
+        frontEnd: {
+            js: ["ReactJs", "NextJs"],
+        },
         backEnd: {
             js: ["Node", "Express"],
         },
