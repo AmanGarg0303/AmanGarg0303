@@ -15,7 +15,7 @@ const aman = {
         },
         devOps: ["Docker"],
         databases: ["mongodb", "postgreSql"],
-        misc: ["Socket.io", "typescript"]
+        misc: ["Socket.io", "typescript", "prisma"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
