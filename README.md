@@ -30,14 +30,14 @@ const aman = {
   
 - [![@amangarg0303's Holopin board](https://holopin.me/amangarg0303)](https://holopin.io/@amangarg0303)
 
-<!---
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=AmanGarg0303"
     alt="amangarg"
   />
 </p>
+
+<!---
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanGarg0303&show_icons=true)
 
