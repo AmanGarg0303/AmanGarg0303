@@ -1,27 +1,22 @@
 - 👋 Hi, I’m @AmanGarg0303
 - 👀 I’m interested in web development and machine learning.
-- 🌱 As of now, I’m web developer (MERN Stack), I can create cool websites for you.
-- 💻 Javascript, ReactJs, NodeJs, ExpressJs, MongoDb, TypeScript, NextJs
+- 🌱 As of now, I’m a full stack developer, I can create cool systems for you.
+- 💻 Typescript, ReactJs, NodeJs, ExpressJs, MongoDb, TypeScript, NextJs
 - 📫 How to reach me ... Portfolio - [Click here](https://amangarg-portfolio-blog.vercel.app/)
 
  ```javascript
 const aman = {
     pronouns: "He" | "Him",
-    code: ["css", "Javascript", "ReactJs", "NextJs", "NodeJs"],
-    askMeAbout: ["web dev", "tech", "machine learning"],
-    technologies: {
-        frontEnd: {
-            js: ["ReactJs", "NextJs"],
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
+    role: "Software Engineer",
+    expertise: {
+        frontend: ["HTML", "CSS", "Javascript", "Typescript", "React", "Next", "Redux"],
+        backend: ["Node", "Express", "REST", "GraphQL"],
+        database: ["MongoDB", "Postgres"],
         devOps: ["Docker"],
-        databases: ["mongodb", "postgreSql"],
-        misc: ["Socket.io", "typescript", "prisma"]
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+        tools: ["Prisma", "Socket.io", "Shopify"]
+    }
+    interests: ["AI", "ML", "Tech"],
+    currentFocus: "Building scalable full-stack products",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
