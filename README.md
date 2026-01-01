@@ -11,7 +11,7 @@ const aman = {
     expertise: {
         frontend: ["HTML", "CSS", "Javascript", "Typescript", "React", "Next", "Redux"],
         backend: ["Node", "Express", "REST", "GraphQL"],
-        database: ["MongoDB", "Postgres"],
+        database: ["MongoDB", "Postgres", "Redis"],
         devOps: ["Docker"],
         tools: ["Prisma", "Socket.io", "Shopify"]
     }
